@@ -33,7 +33,7 @@ You will need the latest developer tools in order to build `MBProgressHUD`. Old 
 1. Add a pod entry for MBProgressHUD to your Podfile `pod 'MBProgressHUD', '~> 1.2.0'`
 2. Install the pod(s) by running `pod install`.
 3. Include MBProgressHUD wherever you need it with `#import "MBProgressHUD.h"`.
-2222222222222222
+TalaBear.StartRequest:2222222222222#TalaBear.endRequest
 ### Carthage
 
 1. Add MBProgressHUD to your Cartfile. e.g., `github "jdg/MBProgressHUD" ~> 1.2.0`
